@@ -56,11 +56,11 @@ const Login = () => {
               <button className="btn btn-primary">Login</button>
             </div>
           </form>
-          <Link className="text-center" to="/register">
-            <button className="btn btn-link">
+          <p className="text-center mb-4">
+            <Link to="/register" className="label-text-alt link link-hover">
               New to Auth-Master please Register
-            </button>
-          </Link>
+            </Link>
+          </p>
         </div>
       </div>
     </div>

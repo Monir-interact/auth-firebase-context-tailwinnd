@@ -69,11 +69,11 @@ const Register = () => {
               <button className="btn btn-primary">Register</button>
             </div>
           </form>
-          <Link to="/login" className="text-center">
-            <button className="btn btn-link">
+          <p className="text-center mb-4">
+            <Link to="/login" className="label-text-alt link link-hover">
               Already have an Account? Please login.
-            </button>
-          </Link>
+            </Link>
+          </p>
         </div>
       </div>
     </div>
