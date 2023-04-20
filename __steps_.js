@@ -9,3 +9,8 @@
 * 1. main.jsx set AuthProvider
 * 2. inside provider access children props and then user 
  */
+
+/**
+ * 1. Private Route
+ * 2. 
+ * ** */
